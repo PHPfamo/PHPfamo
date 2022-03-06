@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @PHPfamo
+- 👀 I’m interested in codingin general, PHP most of the time
+- 🌱 I’m currently learning how to code & code again
